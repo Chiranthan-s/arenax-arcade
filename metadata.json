@@ -1,0 +1,6 @@
+{
+  "name": "Gully Clash: Hand Cricket & Super Over Arcade",
+  "description": "Fast, tactile stadium arcade hand cricket PWA with 1-Over Super Over Blitz against adaptive AI, Classic 1v1 Matches, and 2-Player Pass & Play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
